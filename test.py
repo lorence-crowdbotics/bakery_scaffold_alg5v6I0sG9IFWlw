@@ -10,7 +10,7 @@ class TestAcceptanceStripe(unittest.TestCase):
 
     def test_acceptance_stripe_public_key_has_been_set(self):
         """Check if Stripe key was defined."""
-        return True
+        return False
 
 
 if __name__ == '__main__':
